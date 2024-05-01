@@ -26,7 +26,7 @@ st.markdown("""<hr style="height:2px;border:none;color:#9ACD66;background-color:
 st.write()
 st.write("Please click **uploader** on the sidebar to proceed.")
 st.write("---")
-st.write(""""Welcome to the Deloitte technology benchmarking tool
+st.write("""Welcome to the Deloitte technology benchmarking tool
  
 It will analyse technical information about a project and benchmark it against publicly available information. It does this by identifying and documenting readily available technologies and/or solutions that closely match your project from the Internet and describes the specific differences. All information will be analysed and cross-referenced with online sources to provide a complete audit trial. You will receive a customised report, carefully configured to enable you to rapidly understand the current state of technology. The tool can be used to conduct vendor or competitor reviews, business case option analysis, R&D tax claims and more.
  
